@@ -88,7 +88,7 @@ These projects advance U.S. priorities in **healthcare safety**, **defense analy
 ## 🤝 Contact
 **Email:** shouvonsarker@gmail.com  
 **LinkedIn:** <https://linkedin.com/in/shouvon-sarker>  
-**Google Scholar:** <https://scholar.google.com/citations?user=OMp_evsAAAAJ>  
+**Google Scholar:** <https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en>  
 **CV (PDF):** [`cv/ShouvonSarker_CV.pdf`](cv/ShouvonSarker_CV.pdf)
 
 ---
