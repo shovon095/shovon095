@@ -11,9 +11,9 @@ I am a Ph.D. candidate in Electrical Engineering at Prairie View A&M University,
 My work includes:
   
 * Text-to-SQL for NASA Earth Science (NASA DEAP)
-*Trustworthy Text Generation (NIST GenAI)
-*Explainable Knowledge Distillation for NER
-*Clinical NLP for Medication Safety
+* Trustworthy Text Generation (NIST GenAI)
+* Explainable Knowledge Distillation for NER
+* Clinical NLP for Medication Safety
 
 
 ---
