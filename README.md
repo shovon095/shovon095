@@ -8,11 +8,13 @@
 
 ## 🌟 Summary
 I am a Ph.D. candidate in Electrical Engineering at Prairie View A&M University, specializing in Large Language Models (LLMs) for natural‑language and data applications.  
-My work enables:
-* non‑expert users to query complex databases (self‑refining Text‑to‑SQL for NASA Earth‑science data), and  
-* clinicians to extract critical medication information from Electronic Health Records.  
+My work includes:
+  
+* Text-to-SQL for NASA Earth Science (NASA DEAP)
+*Trustworthy Text Generation (NIST GenAI)
+*Explainable Knowledge Distillation for NER
+*Clinical NLP for Medication Safety
 
-These projects advance U.S. priorities in **healthcare safety**, **defense analytics**, and **space science**.
 
 ---
 
