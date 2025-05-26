@@ -21,24 +21,24 @@ My work includes:
 ## 🎓 Education
 | Degree | Institution | Year | Notes |
 | --- | --- | --- | --- |
-| **Ph.D. Electrical Engineering** | Prairie View A&M University | *2023 – present* | GPA 4.0/4.0 · Large Language Models, Explainable AI |
-| **M.S. Electrical Engineering** | Prairie View A&M University | *2021 – 2022* | GPA 3.90/4.0 · Thesis: *Ensemble BERT for Medication Event Classification* |
-| **B.Sc. Electronics & Communication Engineering** | KUET, Bangladesh | *2014 – 2018* | Thesis: Cognitive‑radio performance in slow‑fading channels |
+| **Ph.D. Electrical Engineering** | Prairie View A&M University | *2023 – present* | GPA 4.0/4.0 · Large Language Models, Explainable AI, Text2SQL |
+| **M.S. Electrical Engineering** | Prairie View A&M University | *2021 – 2022* | GPA 3.90/4.0 · Thesis: *Ensemble BERT for Medication Events Classification in Electronic Health Records* |
+| **B.Sc. Electronics & Communication Engineering** | KUET, Bangladesh | *2014 – 2018* | Thesis: Performance Analysis of Narrowband Cognitive Radio Network for Slow Fading Channels Using NETSIM |
 
 ---
 
-## 🔬 Research Interests
-* LLM fine‑tuning & prompt engineering  
-* Explainable AI & knowledge distillation  
-* Text‑to‑SQL translation for scientific databases  
-* Clinical NLP & medication event extraction  
-* Swarm learning for misinformation detection  
+## 🔬 Research Interests  
+* Explainable AI & Knowledge Distillation  
+* Text‑to‑SQL Translation for Scientific Databases  
+* Clinical NLP & Medication Events extraction from EHRs  
+* Large Language Models & Prompt Engineering
+* Bayesian Optimization, Optimal Decisions in Games
 
 ---
 
 ## 🛠️ Technical Skills
 **Languages:** Python · C/C++ · HTML/CSS · PHP  
-**DL Frameworks:** PyTorch · TensorFlow · Keras · Hugging Face Transformers  
+**DL Frameworks:** PyTorch · TensorFlow · Keras · Hugging Face,  Transformers  
 **LLM Tools:** LoRA · Adapters · PEFT · OpenAI API · LangChain  
 **Data Science:** pandas · NumPy · scikit‑learn · Matplotlib · Seaborn  
 **DevOps:** Git · Docker · Linux · AWS  
@@ -51,9 +51,8 @@ My work includes:
 | Project | Description | Repo |
 | --- | --- | --- |
 | **NASA DEAP‑SQL** | Self‑discovery Text‑to‑SQL pipeline (↑12 % accuracy) | [`deap-sql`](https://github.com/shouvon-sarker/deap-sql) |
-| **SJS‑Distill‑NER** | Structured JS distillation aligning token & transition knowledge | [`sjs-distill-ner`](https://github.com/shouvon-sarker/sjs-distill-ner) |
+| **SJS‑Distill‑NER** | Structured JS distillation aligning token & transition | [`sjs-distill-ner`](https://github.com/shouvon-sarker/sjs-distill-ner) |
 | **Ensemble‑BERT Med Events** | Ensemble BERT models for medication event classification (*ICIBM ’23*) | [`med-bert-ensemble`](https://github.com/shouvon-sarker/med-bert-ensemble) |
-| **Swarm‑FakeNews** | Swarm learning with human‑in‑the‑loop for fake‑news detection (*IDSTA ’22*) | [`swarm-fakenews`](https://github.com/shouvon-sarker/swarm-fakenews) |
 | **Actor‑Critic GenAI** | Generator & detector framework; top‑10 % in NIST GenAI 2024 | [`genai-t2t`](https://github.com/shouvon-sarker/genai-t2t) |
 
 ---
