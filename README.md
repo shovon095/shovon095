@@ -53,7 +53,7 @@ My work includes:
 | **NASA DEAP‑SQL** | Self‑discovery Text‑to‑SQL pipeline (↑12 % accuracy) | [`deap-sql`](https://github.com/shouvon-sarker/deap-sql) |
 | **SJS‑Distill‑NER** | Structured JS distillation aligning token & transition | [`sjs-distill-ner`](https://github.com/shouvon-sarker/sjs-distill-ner) |
 | **Ensemble‑BERT Med Events** | Ensemble BERT models for medication event classification (*ICIBM ’23*) | [`med-bert-ensemble`](https://github.com/shouvon-sarker/med-bert-ensemble) |
-| **Actor‑Critic GenAI** | Generator & detector framework; top‑10 % in NIST GenAI 2024 | [`genai-t2t`](https://github.com/shouvon-sarker/genai-t2t) |
+| **Actor‑Critic GenAI** | Generator & detector framework; top‑10 % in NIST GenAI 2024 | [`genai-t2t`](https://github.com/shovon095/nist-genai24-pipeline) |
 
 ---
 
