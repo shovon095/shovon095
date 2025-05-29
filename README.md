@@ -50,7 +50,8 @@ My work includes:
 ## 🚀 Projects
 | Project | Description | Repo |
 | --- | --- | --- |
-| **NASA DEAP‑SQL** | Self‑discovery Text‑to‑SQL pipeline (↑12 % accuracy) | [`deap-sql`](https://github.com/shovon095/text2sql-quality-refiner.git) |
+| **NASA DEAP‑SQL** | Self‑discovery Text‑to‑SQL pipeline (↑3 % accuracy) | [`deap-sql`](https://github.com/shovon095/text2sql-quality-refiner.git) |
+| **NASA DEAP‑SQL** | Non-parametric attention integration with LLM for Text‑to‑SQL pipeline without external knowledge (↑10 % accuracy) | [`deap-sql`](https://github.com/shovon095/nl2sql-attention-validator.git) |
 | **SJS‑Distill‑NER** | Structured JS distillation aligning token & transition | [`sjs-distill-ner`](https://github.com/shouvon-sarker/sjs-distill-ner) |
 | **Ensemble‑BERT Med Events** | Ensemble BERT models for medication event classification (*ICIBM ’23*) | [`med-bert-ensemble`](https://github.com/shovon095/Calibration-of-BERT-for-NER.git) |
 | **Actor‑Critic GenAI** | Generator & detector framework; top‑10 % in NIST GenAI 2024 | [`genai-t2t`](https://github.com/shovon095/nist-genai24-pipeline) |
