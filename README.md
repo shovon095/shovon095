@@ -20,9 +20,6 @@
 <h1 align="center">
   Hey there 👋, I'm Shouvon Sarker
 </h1>
-<h3 align="center">
-  Ph.D. Candidate at Prairie View A&M University
-</h3>
 
 ---
 
