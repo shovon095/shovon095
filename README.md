@@ -30,8 +30,6 @@
 
 I am a Ph.D. candidate in Electrical Engineering specializing in **Large Language Models (LLMs)** for complex natural language and data applications. My research aims to build transparent, trustworthy, and efficient AI systems for critical domains.
 
-> “My goal is to make advanced language models transparent, trustworthy, and accessible across healthcare, defense, and space science.”
-
 My core research interests include:
 * 🧠 **Explainable AI & Knowledge Distillation**: Making black-box models transparent.
 * 🛰️ **Text‑to‑SQL for Scientific Databases**: Translating natural language questions into database queries for NASA Earth Science data.
@@ -72,8 +70,9 @@ Here are some of the key projects I've worked on. You can find more on my reposi
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shouvon-sarker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shouvon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shouvon-sarker&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shovon095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="shovon095's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon095&layout=compact&theme=tokyonight&hide_border=true" alt="shovon095's Top Languages" />
 </p>
 
 ---
