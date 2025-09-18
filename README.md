@@ -1,79 +1,116 @@
-# Hi, I'm Shouvon Sarker  
+<div id="badges" align="center">
+<a href="mailto:shouvonsarker@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.google.com/search?q=https://linkedin.in/shouvon-sarker">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+</a>
+<a href="cv/ShouvonSarker_CV.pdf">
+<img src="https://img.shields.io/badge/Download_CV-FF5733?style=for-the-badge&logo=Acrobat&logoColor=white" alt="CV"/>
+</a>
+</div>
 
-I am a researcher and developer working on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, and **Explainable AI**. My work focuses on building **trustworthy, interpretable, and efficient models** for structured reasoning tasks such as **Text-to-SQL** and **Named Entity Recognition (NER)**.  
+<h1 align="center">
+Shouvon Sarker
+</h1>
 
-My broader goal is to bridge the gap between **powerful black-box models** and **transparent AI systems** that humans can understand and trust.  
+About Me
+I am a Ph.D. candidate in Electrical Engineering with a research focus on Large Language Models (LLMs) for complex natural language and data-driven applications. My work is centered on building transparent, trustworthy, and efficient AI systems for mission-critical domains, including Earth Science and Clinical NLP.
 
----
+My core research interests include:
 
-## 🔹 News
-- **Sep 2025**: Released a **Game-Theoretic Text-to-SQL Framework** with critic alignment and variance reduction.  
-- **Apr 2025**: Introduced **Explainable Knowledge Distillation for NER**, including token-level and structured JS loss.  
-- **Mar 2025**: Working on **Clause-Level Attribution and Graph Signal Propagation** for LLaMA-based Text-to-SQL interpretability.  
-- **Jun 2024**: Trained **CFINet** on the **SODA-D-1024 dataset** with a custom FIRoIHead in MMDetection.  
+Explainable AI & Knowledge Distillation: Developing methods to make black-box models transparent and interpretable.
 
----
+Text‑to‑SQL for Scientific Databases: Translating natural language questions into executable database queries for NASA's Earth Science data archives.
 
-## 🔹 Research Interests
-- **Large Language Models (LLMs):** Pretraining, fine-tuning, and reinforcement learning with feedback.  
-- **Explainable AI (XAI):** Interpretable models, attribution methods, and knowledge distillation.  
-- **Text-to-SQL & Structured Reasoning:** Schema linking, query decomposition, and clause-level interpretability.  
-- **Information Extraction (NER/RE):** Distillation strategies, alignment problems, and structured supervision.  
-- **Vision-Language Models:** Multi-modal reasoning, control generation, and structured evaluation.  
+Clinical NLP: Extracting and classifying medication events from electronic health records to improve patient safety.
 
----
+Generative AI & Trustworthiness: Building robust frameworks for generating and detecting machine-generated text, as recognized by the NIST GenAI Challenge.
 
-## 🔹 Pinned Projects  
+News
+August 2024: Our work on a generator-detector framework for trustworthy text generation placed in the Top 10% at the NIST GenAI 2024 Challenge.
 
-### 🟦 Game-Theoretic Text-to-SQL Framework  
-- Fine-tunes a GPT-2 model with **critic alignment** and **variance reduction**.  
-- Uses **GPT-4o** as a critic providing both **scalar rewards** and **error-type distributions**.  
-- Integrates **REINFORCE with baseline** + **critic-alignment loss**.  
-- [Repository Link](https://github.com/shouvonsarker/game-theoretic-text-to-sql)  
+June 2024: Presented our research, "Enhancing LLM Fine-Tuning for Text-to-SQL by SQL Quality Measurement," at IJCNN 2024.
 
----
+August 2023: My paper, "Ensemble BERT for Medication Event Classification on EHRs," was published at the International Conference on Intelligent Biology and Medicine (ICIBM 2023).
 
-### 🟦 Explainable Knowledge Distillation for NER  
-- Student–teacher framework with **KL, JS, SSJS, and hybrid distillation losses**.  
-- Explores **structured JS loss** for interpretable distillation.  
-- Includes **evaluation pipeline** with token alignment (`valid_ids`) and output consistency checks.  
-- [Repository Link](https://github.com/shouvonsarker/explainable-ner-distillation)  
+Technologies & Skills
+Languages: Python, C/C++, SQL, HTML/CSS, PHP
 
----
+Deep Learning: PyTorch, TensorFlow, Keras, Hugging Face Transformers
 
-### 🟦 Clause-Level Attribution for Text-to-SQL  
-- Clause-level attribution and **token-to-clause flow graphs** using attention heads.  
-- Implements **graph signal propagation** to measure reasoning flow inside LLMs.  
-- Provides **interpretability metrics and visualization tools** for Text-to-SQL.  
-- [Repository Link](https://github.com/shouvonsarker/text-to-sql-interpretability)  
+LLM & GenAI: LangChain, PEFT, LoRA, Parameter-Efficient Fine-Tuning, OpenAI API
 
----
+Data Science: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-### 🟦 Multi-Modal Generation Pipelines  
-- Implements **Diffusion + ControlNet** pipelines with depth, pose, and segmentation guidance.  
-- Includes **dataset generation tools** for image–text–control triplets.  
-- Adds runtime error handling, safe generation, and GPU-aware pipeline setup.  
-- [Repository Link](https://github.com/shouvonsarker/multimodal-generation)  
+DevOps & Databases: Git, Docker, Linux, AWS, MySQL, PostgreSQL
 
----
+Simulation: MATLAB, NetSim, GNS3
 
-### 🟦 CFINet on SODA-D-1024  
-- Custom **Foreground Instance RoI Head (FIRoIHead)** in MMDetection.  
-- Trained CFINet with **9 foreground classes** on the **SODA-D-1024 dataset**.  
-- Supports advanced **instance-level reasoning** for scene understanding.  
-- [Repository Link](https://github.com/shouvonsarker/cfinet-soda)  
+Featured Projects
+NASA DEAP-SQL: A self-discovery Text-to-SQL pipeline that improves query generation accuracy by over 3% through automated SQL quality refinement. 🔗 View on GitHub
 
----
+Attention-Enhanced Text-to-SQL: Integrates a non-parametric attention mechanism with an LLM to boost Text-to-SQL accuracy by 10% without requiring external knowledge. 🔗 View on GitHub
 
-## 🔹 Skills & Tools
-- **Programming:** Python, PyTorch, TensorFlow, HuggingFace, MMDetection, Diffusers.  
-- **Databases:** SQL, PostgreSQL, schema planning, query decomposition.  
-- **ML Areas:** NLP, LLMs, XAI, multimodal learning, reinforcement learning.  
-- **Visualization:** Matplotlib, Seaborn, NetworkX, GraphViz.  
+Actor-Critic GenAI Framework: A generator and detector system for trustworthy text generation, which placed in the Top 10% at the NIST GenAI 2024 Challenge. 🔗 View on GitHub
 
----
+SJS-Distill-NER: A novel structured knowledge distillation method using Jensen-Shannon divergence to align token and transition probabilities for Named Entity Recognition. 🔗 View on GitHub
 
-## 🔹 Get in Touch
-- GitHub: [github.com/shouvonsarker](https://github.com/shouvonsarker)  
-- Email: shouvonsarker@example.com  
-- (Optional) LinkedIn / Website / Scholar if you want to add them.  
+Ensemble-BERT for Med Events: An ensemble of BERT models for classifying medication events in Electronic Health Records, published at ICIBM 2023. 🔗 View on GitHub
+
+GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shovon095&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="shovon095's GitHub Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon095&layout=compact&theme=tokyonight&hide_border=true" alt="shovon095's Top Languages" />
+</p>
+
+Academic Background
+<details>
+<summary><strong>Education</strong></summary>
+<br>
+
+Ph.D. in Electrical Engineering | Prairie View A&M University (2023 – Present)
+
+GPA: 4.0/4.0
+
+Research: Large Language Models, Explainable AI, Text2SQL
+
+M.S. in Electrical Engineering | Prairie View A&M University (2021 – 2022)
+
+GPA: 3.90/4.0
+
+Thesis: Ensemble BERT for Medication Events Classification
+
+B.Sc. in Electronics and Communication Engineering (ECE) | KUET, Bangladesh (2014 – 2018)
+
+Thesis: Performance Analysis of Narrowband Cognitive Radio Network
+
+</details>
+
+<details>
+<summary><strong>Publications</strong></summary>
+<br>
+
+Peer-Reviewed Publications
+Dong, X., Sarker, S., & Qian, L. (2022). “Integrating Human‑in‑the‑Loop into Swarm Learning for Decentralized Fake News Detection.” Proc. IDSTA 2022.
+
+Dong, X., Fu, Y., Kuo, M., Sarker, S., et al. (2024). “Enhancing Deep Knowledge Tracing via Diffusion Models for Personalized Adaptive Learning.” ASEE Annual Conf. 2024.
+
+Sarker, S., Dong, X., & Qian, L. (2023). “Ensemble BERT for Medication Event Classification on EHRs.” ICIBM 2023.
+
+Sarker, S., Li, X., & Dong, X. (2023). “Medical Data Augmentation via ChatGPT: A Case Study on Medication Identification and Event Classification.” IEEE BHI 2023.
+
+Sarker, S., Dong, X., & Qian, L. (2025). “Text Generator and Text Discriminator for NIST GenAI T2T Challenge.” AIRC 2025.
+
+Manuscripts Under Review or In Preparation
+“Enhancing LLM Fine‑Tuning for Text‑to‑SQL by SQL Quality Measurement,” submitted to IJCNN 2024.
+
+“Integrating Non‑Parametric Attention to Enhance LLM‑Based Text‑to‑SQL Without External Knowledge.”
+
+“From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER.”
+
+</details>
