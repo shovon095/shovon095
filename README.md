@@ -1,4 +1,4 @@
-# 🚀 Shouvon Sarker
+# Shouvon Sarker
 
 <div align="center">
   
