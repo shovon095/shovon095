@@ -24,27 +24,14 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 **Current GPA:** 4.0/4.0
 
 ---
+
 ## 🌟 Recent News & Achievements
 
-<details>
-  <summary>
-    <img src="https://raw.githubusercontent.com/animated-badges/icons/main/award-star.svg" width="24"/> <strong>September 2024: ICDM 2024 Acceptance (A* Conference)</strong>
-  </summary>
-  <br>
-  <blockquote>
-    Paper accepted to the IEEE International Conference on Data Mining (ICDM), a premier A*-ranked conference in the field.
-  </blockquote>
-</details>
+| Date | Achievement | Details |
+|------|-------------|---------|
+| **September 2025** | 🏆 **ICDM 2024 Acceptance (A* Conference)** | Paper accepted to the IEEE International Conference on Data Mining (ICDM). |
+| **August 2024** | 🏅 **NIST GenAI Challenge Recognition** | Generator-detector framework placed in Top 10% for trustworthy text generation. |
 
-<details>
-  <summary>
-    <img src="https://raw.githubusercontent.com/animated-badges/icons/main/trophy-glow.svg" width="24"/> <strong>August 2024: NIST GenAI Challenge Recognition</strong>
-  </summary>
-  <br>
-  <blockquote>
-    Our generator-detector framework was recognized in the Top 10% for trustworthy text generation in the NIST Artificial Intelligence Safety Institute's GenAI Challenge.
-  </blockquote>
-</details>
 
 ---
 
