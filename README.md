@@ -29,7 +29,7 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 
 | Date | Achievement | Details |
 |------|-------------|---------|
-| **September 2025** | 🏆 **ICDM 2025 Acceptance (A* Conference)** | Paper accepted to the IEEE International Conference on Data Mining (ICDM). |
+| **September 2025** | 🏆 **ICDM 2025 Acceptance (A\* Conference)** | Paper accepted to the IEEE International Conference on Data Mining (ICDM). |
 | **August 2024** | 🏅 **NIST GenAI Challenge Recognition** | Generator-detector framework placed in Top 10% for trustworthy text generation. |
 
 
