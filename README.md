@@ -25,14 +25,17 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 
 ---
 
-## Recent News & Achievements
+## 🌟 Recent News & Achievements
+
+<img src="https://raw.githubusercontent.com/animated-badges/pulse/main/pulse.svg" width="100%" height="8px">
 
 | Date | Achievement | Details |
 |------|-------------|---------|
-| **August 2024** | NIST GenAI Challenge Recognition | Generator-detector framework placed in Top 10% for trustworthy text generation |
-| **June 2024** | IJCNN 2024 Presentation | Presented "Enhancing LLM Fine-Tuning for Text-to-SQL by SQL Quality Measurement" |
-| **August 2023** | ICIBM 2023 Publication | Published "Ensemble BERT for Medication Event Classification on EHRs" |
+| **August 2024** | 🏆 NIST GenAI Challenge Recognition | Generator-detector framework placed in Top 10% for trustworthy text generation |
+| **June 2024** | 🎤 IJCNN 2024 Presentation | Presented "Enhancing LLM Fine-Tuning for Text-to-SQL by SQL Quality Measurement" |
+| **August 2023** | 📄 ICIBM 2023 Publication | Published "Ensemble BERT for Medication Event Classification on EHRs" |
 
+<img src="https://raw.githubusercontent.com/animated-badges/pulse/main/pulse.svg" width="100%" height="8px">
 ---
 
 ## Research Interests & Expertise
