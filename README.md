@@ -108,7 +108,7 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 Dong, X., **Sarker, S.**, & Qian, L. (2022). "Integrating Human-in-the-Loop into Swarm Learning for Decentralized Fake News Detection." *Proceedings of the International Conference on Information and Digital Science Technology and Applications (IDSTA 2022)*.
 
 ### Manuscripts Under Review
-- "Learning SQL Correctne: Bayesian Error Localization, Counterfactual Repair, and Policy Optimization" - *In Preparation *
+- "Learning SQL Correctness: Bayesian Error Localization, Counterfactual Repair, and Policy Optimization" - *In Preparation *
 
 - "From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER" - *Submitted to IEEE Transactions on Knowledge and Data Engineering*
 
