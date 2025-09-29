@@ -61,25 +61,25 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 **Innovation:** Automated SQL quality refinement mechanism  
 **Impact:** 3% improvement in query generation accuracy  
 **Technologies:** PyTorch, LangChain, SQL optimization algorithms  
-[View Repository](https://github.com/shovon095)
+[View Repository](https://github.com/shovon095/text2sql-quality-refiner.git)
 
 ### Attention-Enhanced Text-to-SQL Framework
 **Objective:** Enhance LLM-based Text-to-SQL without external knowledge dependencies  
 **Innovation:** Non-parametric attention mechanism integration  
 **Impact:** 10% performance improvement in query accuracy  
 **Technologies:** Transformer architecture, attention mechanisms  
-[View Repository](https://github.com/shovon095)
+[View Repository](https://github.com/shovon095/nl2sql-attention-validator)
 
 ### NIST GenAI Challenge: Actor-Critic Framework
 **Objective:** Develop trustworthy text generation and detection systems  
 **Recognition:** Top 10% placement in NIST GenAI 2024 Challenge  
 **Innovation:** Novel generator-detector paradigm for AI trustworthiness  
 **Technologies:** Actor-critic models, generative AI, detection algorithms  
-[View Repository](https://github.com/shovon095)
+[View Repository](https://github.com/shovon095/nist-genai24-pipeline.git)
 
 ### SJS-Distill-NER: Structured Knowledge Distillation
 **Objective:** Improve Named Entity Recognition through knowledge distillation  
-**Innovation:** Jensen-Shannon divergence for token and transition probability alignment  
+**Innovation:** Proposed a new distillation loss optimization combining Jensen-Shannon divergence for token and transition probability alignment  
 **Contribution:** Novel distillation methodology for sequential labeling tasks  
 **Technologies:** BERT, Knowledge distillation, Information theory  
 [View Repository](https://github.com/shovon095)
@@ -89,7 +89,7 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 **Publication:** International Conference on Intelligent Biology and Medicine (ICIBM 2023)  
 **Innovation:** Ensemble learning approach for clinical NLP tasks  
 **Technologies:** BERT variants, ensemble methods, clinical data processing  
-[View Repository](https://github.com/shovon095)
+[View Repository](https://github.com/shovon095/Calibration-of-BERT-for-NER.git)
 
 ---
 
