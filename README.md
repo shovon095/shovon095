@@ -97,7 +97,9 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 
 ### Peer-Reviewed Conference Papers
 
-**Sarker, S.**, Dong, X., & Qian, L. (2025). "Text Generator and Text Discriminator for NIST GenAI T2T Challenge." *Artificial Intelligence Research Conference (AIRC 2025)*.
+**Sarker, S.**, Qian, L. & Dong, X. (2025). "- "Integrating Non-Parametric Attention to Enhance LLM-Based Text-to-SQL Without External Knowledge" - *IEEE International Conference on Data Mining (ICDM)*.
+
+**Sarker, S.**, Dong, X., & Qian, L. (2025). "Text Generator and Text Discriminator for NIST GenAI T2T Challenge." *International Conference on Artificial Intelligence, Robotics, and Control (AIRC)*.
 
 **Sarker, S.**, Li, X., & Dong, X. (2023). "Medical Data Augmentation via ChatGPT: A Case Study on Medication Identification and Event Classification." *IEEE International Conference on Bioinformatics and Health Informatics (BHI 2023)*.
 
@@ -106,9 +108,9 @@ PhD Candidate in Electrical Engineering at Prairie View A&M University with a re
 Dong, X., **Sarker, S.**, & Qian, L. (2022). "Integrating Human-in-the-Loop into Swarm Learning for Decentralized Fake News Detection." *Proceedings of the International Conference on Information and Digital Science Technology and Applications (IDSTA 2022)*.
 
 ### Manuscripts Under Review
-- "Enhancing LLM Fine-Tuning for Text-to-SQL by SQL Quality Measurement" - *Submitted to IJCNN 2024*
-- "Integrating Non-Parametric Attention to Enhance LLM-Based Text-to-SQL Without External Knowledge" - *In preparation*
-- "From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER" - *In preparation*
+- "Learning SQL Correctne: Bayesian Error Localization, Counterfactual Repair, and Policy Optimization" - *In Preparation *
+
+- "From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER" - *Submitted to IEEE Transactions on Knowledge and Data Engineering*
 
 ---
 
@@ -117,7 +119,6 @@ Dong, X., **Sarker, S.**, & Qian, L. (2022). "Integrating Human-in-the-Loop into
 **PhD in Electrical Engineering** | Prairie View A&M University | 2023 – Present  
 - **GPA:** 4.0/4.0  
 - **Research Focus:** Large Language Models, Explainable AI, Text-to-SQL Systems  
-- **Advisor:** [Faculty Advisor Name if appropriate]
 
 **Master of Science in Electrical Engineering** | Prairie View A&M University | 2021 – 2022  
 - **GPA:** 3.90/4.0  
@@ -139,14 +140,6 @@ Dong, X., **Sarker, S.**, & Qian, L. (2022). "Integrating Human-in-the-Loop into
 
 ---
 
-## Contact & Collaboration
-
-I am actively seeking research collaborations and industry partnerships in the areas of explainable AI, large language models, and trustworthy AI systems. Please feel free to reach out for potential collaborations, speaking opportunities, or discussions about my research.
-
-**Email:** shouvonsarker@gmail.com  
-**Office:** [Department of Electrical Engineering, Prairie View A&M University]  
-
----
 
 <div align="center">
 
