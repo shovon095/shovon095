@@ -1,164 +1,147 @@
-# Shouvon Sarker, PhD Candidate
+# Shouvon Sarker
+Ph.D. Candidate, Electrical Engineering  
+Prairie View A&M University, Texas, USA
 
-<div align="center">
-
-**Electrical Engineering • Large Language Models • Explainable AI**
-
-[![Email](https://img.shields.io/badge/📧-shouvonsarker@gmail.com-EA4335?style=for-the-badge)](mailto:shouvonsarker@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.in/shouvon-sarker)
-[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en)
-[![CV](https://img.shields.io/badge/Download_CV-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](cv/ShouvonSarker_CV.pdf)
-
-</div>
+Email: shouvonsarker@gmail.com  
+LinkedIn: https://linkedin.in/shouvon-sarker  
+Google Scholar: https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en  
+Curriculum Vitae: cv/ShouvonSarker_CV.pdf  
 
 ---
 
-## 👤 About
+## Research Overview
 
-PhD Candidate in Electrical Engineering at Prairie View A&M University, specializing in transparent and trustworthy artificial intelligence systems for mission-critical applications. Research addresses fundamental challenges in Large Language Models with emphasis on explainability, reliability, and domain-specific applications in Earth Science and Clinical Natural Language Processing.
+I am a Ph.D. candidate in Electrical Engineering at Prairie View A&M University, conducting research on **transparent, reliable, and trustworthy artificial intelligence systems** for mission-critical applications. My work focuses on improving the **interpretability, correctness, and robustness of large language models**, particularly in structured reasoning tasks and domain-specific settings.
 
-**Current Academic Standing:** GPA 4.0/4.0
+My primary research interests include:
+
+- Explainable and interpretable artificial intelligence  
+- Large language models (LLMs) and structured generation  
+- Text-to-SQL systems for scientific databases  
+- Probabilistic error modeling and knowledge distillation  
+- Clinical natural language processing  
+
+**Current Academic Standing:** GPA 4.0 / 4.0
 
 ---
 
-## 🏆 Recent Achievements
+## Recent Achievements
 
-| Date | Milestone |
-|------|-----------|
-| **September 2025** | Paper accepted to **IEEE International Conference on Data Mining (ICDM)** — A* ranked conference |
-| **August 2024** | **NIST GenAI Challenge** — Generator-detector framework placed in Top 10% for trustworthy text generation |
+| Date | Description |
+|-----|------------|
+| September 2025 | Paper accepted at the IEEE International Conference on Data Mining (ICDM), an A*-ranked conference |
+| August 2024 | Top 10% placement in the NIST GenAI Text-to-Text Challenge |
 
 ---
 
-## 🔬 Research Portfolio
+## Research Areas
 
-### Core Research Areas
+### Explainable AI
+Development of methods to improve transparency and diagnostic capability in black-box models, with emphasis on token-level and structure-level attribution.
 
-**Explainable AI & Model Interpretability**  
-Developing methodologies to enhance transparency in black-box models for critical decision-making processes.
+### Text-to-SQL Systems
+Design of robust natural language interfaces for large scientific databases, including NASA Earth Science data archives, with a focus on correctness verification and query refinement.
 
-**Text-to-SQL Systems**  
-Creating robust natural language interfaces for scientific databases, with focus on NASA's Earth Science data archives.
+### Clinical NLP
+Extraction and classification of medical events from electronic health records using deep learning and ensemble modeling approaches.
 
-**Clinical Natural Language Processing**  
-Extracting and classifying medical events from electronic health records to improve patient safety outcomes.
+### Trustworthy Generative AI
+Development of generator–discriminator frameworks for reliable text generation and detection of machine-generated content.
 
-**Trustworthy Generative AI**  
-Building frameworks for reliable text generation and detection of machine-generated content.
+---
 
-### Technical Expertise
+## Technical Skills
 
-**Programming Languages:** Python, C/C++, SQL, MATLAB  
+**Programming:** Python, C/C++, SQL, MATLAB  
 **Machine Learning:** PyTorch, TensorFlow, Hugging Face Transformers  
-**LLM Technologies:** LangChain, PEFT, LoRA, OpenAI API  
-**Data Science:** Pandas, NumPy, Scikit-learn, Statistical Analysis  
-**Infrastructure:** AWS, Docker, Git, Linux, MySQL, PostgreSQL
+**Large Language Models:** PEFT, LoRA, LangChain, OpenAI API  
+**Data Analysis:** NumPy, Pandas, Scikit-learn  
+**Infrastructure:** Linux, Docker, Git, AWS, PostgreSQL, MySQL  
 
 ---
 
-## 💻 Featured Research Projects
+## Selected Research Projects
 
-### 🛰️ NASA DEAP-SQL: Self-Discovery Text-to-SQL Pipeline
+### NASA DEAP-SQL: Self-Discovery Text-to-SQL Pipeline
+Development of an automated SQL quality refinement pipeline for NASA Earth Science databases, improving query execution accuracy by approximately 3%.
 
-Improving natural language query translation for NASA's Earth Science databases through automated SQL quality refinement mechanisms. Achieved 3% improvement in query generation accuracy.
-
-**Technologies:** PyTorch, LangChain, SQL Optimization  
-**Repository:** [github.com/shovon095/text2sql-quality-refiner](https://github.com/shovon095/text2sql-quality-refiner.git)
+Repository: https://github.com/shovon095/text2sql-quality-refiner  
 
 ---
 
-### 🔍 Attention-Enhanced Text-to-SQL Framework
+### Attention-Enhanced Text-to-SQL Framework
+Proposed a non-parametric attention mechanism to improve LLM-based Text-to-SQL performance without external knowledge augmentation, achieving a 10% improvement in accuracy.
 
-Enhanced LLM-based Text-to-SQL performance without external knowledge dependencies through non-parametric attention mechanism integration. Achieved 10% improvement in query accuracy.
-
-**Technologies:** Transformer Architecture, Attention Mechanisms  
-**Repository:** [github.com/shovon095/nl2sql-attention-validator](https://github.com/shovon095/nl2sql-attention-validator)
+Repository: https://github.com/shovon095/nl2sql-attention-validator  
 
 ---
 
-### 🤖 NIST GenAI Challenge: Actor-Critic Framework
+### NIST GenAI Challenge: Generator–Discriminator Framework
+Designed an actor–critic-inspired generator–detector system for trustworthy text generation, achieving top-10% ranking in the NIST GenAI 2024 challenge.
 
-Developed trustworthy text generation and detection systems using novel generator-detector paradigm. Recognized with Top 10% placement in NIST GenAI 2024 Challenge.
-
-**Technologies:** Actor-Critic Models, Generative AI, Detection Algorithms  
-**Repository:** [github.com/shovon095/nist-genai24-pipeline](https://github.com/shovon095/nist-genai24-pipeline.git)
+Repository: https://github.com/shovon095/nist-genai24-pipeline  
 
 ---
 
-### 📊 SJS-Distill-NER: Structured Knowledge Distillation
+### Structured Jensen–Shannon Knowledge Distillation for NER
+Introduced a structured knowledge distillation method aligning token-level and transition-level distributions for named entity recognition.
 
-Improved Named Entity Recognition through novel distillation methodology combining Jensen-Shannon divergence for token and transition probability alignment in sequential labeling tasks.
-
-**Technologies:** BERT, Knowledge Distillation, Information Theory  
-**Repository:** [github.com/shovon095](https://github.com/shovon095)
+Repository: https://github.com/shovon095  
 
 ---
 
-### 🏥 Ensemble BERT for Medical Event Classification
+### Ensemble BERT for Medical Event Classification
+Developed an ensemble BERT framework for medication event classification from electronic health records.
 
-Classified medication events in Electronic Health Records using ensemble learning approaches. Published at International Conference on Intelligent Biology and Medicine (ICIBM 2023).
-
-**Technologies:** BERT Variants, Ensemble Methods, Clinical Data Processing  
-**Repository:** [github.com/shovon095/Calibration-of-BERT-for-NER](https://github.com/shovon095/Calibration-of-BERT-for-NER.git)
+Repository: https://github.com/shovon095/Calibration-of-BERT-for-NER  
 
 ---
 
-## 📚 Publications
+## Publications
 
-### Conference Proceedings
+### Conference Papers
 
-**Sarker, S.**, Qian, L., & Dong, X. (2025). Integrating Non-Parametric Attention to Enhance LLM-Based Text-to-SQL Without External Knowledge. *IEEE International Conference on Data Mining (ICDM)*.
+Sarker, S., Qian, L., & Dong, X. (2025). Integrating Non-Parametric Attention to Enhance LLM-Based Text-to-SQL Without External Knowledge. *IEEE International Conference on Data Mining (ICDM)*.
 
-**Sarker, S.**, Dong, X., & Qian, L. (2025). Text Generator and Text Discriminator for NIST GenAI T2T Challenge. *International Conference on Artificial Intelligence, Robotics, and Control (AIRC)*.
+Sarker, S., Dong, X., & Qian, L. (2025). Text Generator and Text Discriminator for NIST GenAI Text-to-Text Challenge. *International Conference on Artificial Intelligence, Robotics, and Control (AIRC)*.
 
-**Sarker, S.**, Li, X., & Dong, X. (2023). Medical Data Augmentation via ChatGPT: A Case Study on Medication Identification and Event Classification. *IEEE International Conference on Bioinformatics and Health Informatics (BHI 2023)*.
+Sarker, S., Li, X., & Dong, X. (2023). Medical Data Augmentation via ChatGPT: A Case Study on Medication Identification and Event Classification. *IEEE International Conference on Bioinformatics and Health Informatics (BHI)*.
 
-**Sarker, S.**, Dong, X., & Qian, L. (2023). Ensemble BERT for Medication Event Classification on EHRs. *International Conference on Intelligent Biology and Medicine (ICIBM 2023)*.
+Sarker, S., Dong, X., & Qian, L. (2023). Ensemble BERT for Medication Event Classification on Electronic Health Records. *International Conference on Intelligent Biology and Medicine (ICIBM)*.
 
-Dong, X., **Sarker, S.**, & Qian, L. (2022). Integrating Human-in-the-Loop into Swarm Learning for Decentralized Fake News Detection. *Proceedings of the International Conference on Information and Digital Science Technology and Applications (IDSTA 2022)*.
-
-### Manuscripts in Progress
-
-**Sarker, S.**, et al. Learning SQL Correctness: Bayesian Error Localization, Counterfactual Repair, and Policy Optimization. *In Preparation*.
-
-**Sarker, S.**, et al. From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER. *Under Review at IEEE Transactions on Knowledge and Data Engineering*.
+Dong, X., Sarker, S., & Qian, L. (2022). Integrating Human-in-the-Loop into Swarm Learning for Decentralized Fake News Detection. *International Conference on Information and Digital Science Technology and Applications (IDSTA)*.
 
 ---
 
-## 🎓 Education
+### Manuscripts Under Review / In Preparation
 
-**Doctor of Philosophy in Electrical Engineering**  
-Prairie View A&M University | 2023 – Present  
-GPA: 4.0/4.0  
-Focus: Large Language Models, Explainable AI, Text-to-SQL Systems
+Sarker, S., et al. Learning SQL Correctness: Bayesian Error Localization, Counterfactual Repair, and Policy Optimization. Manuscript in preparation.
 
-**Master of Science in Electrical Engineering**  
-Prairie View A&M University | 2021 – 2022  
-GPA: 3.90/4.0  
-Thesis: Ensemble BERT for Medication Events Classification
-
-**Bachelor of Science in Electronics and Communication Engineering**  
-Khulna University of Engineering & Technology (KUET), Bangladesh | 2014 – 2018  
-Thesis: Performance Analysis of Narrowband Cognitive Radio Network
+Sarker, S., et al. From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER. Under review at *IEEE Transactions on Knowledge and Data Engineering*.
 
 ---
 
-## 📊 GitHub Statistics
+## Education
+
+**Ph.D. in Electrical Engineering**  
+Prairie View A&M University, USA (2023 – Present)  
+
+**M.S. in Electrical Engineering**  
+Prairie View A&M University, USA (2021 – 2022)  
+
+**B.S. in Electronics and Communication Engineering**  
+Khulna University of Engineering & Technology, Bangladesh (2014 – 2018)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shovon095&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovon095&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=shovon095&show_icons=true&include_all_commits=true" height="150" />
 
 </div>
 
 ---
 
-<div align="center">
-
-**Advancing Transparent and Trustworthy Artificial Intelligence**
-
-*Last Updated: January 2026*
-
-</div>
+*Last updated: January 2026*
