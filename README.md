@@ -8,12 +8,13 @@
 
 <div align="center">
 
-Email: shouvonsarker@gmail.com  
-LinkedIn: https://www.linkedin.com/in/shouvon-sarker  
-Google Scholar: https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en  
-Curriculum Vitae: cv/ShouvonSarker_CV.pdf  
+[![Email](https://img.shields.io/badge/Email-shouvonsarker@gmail.com-555555?style=flat&logo=gmail&logoColor=white)](mailto:shouvonsarker@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shouvon--sarker-555555?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shouvon-sarker)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Citations-555555?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en)
+[![CV](https://img.shields.io/badge/CV-Download-555555?style=flat&logo=adobeacrobatreader&logoColor=white)](cv/ShouvonSarker_CV.pdf)
 
 </div>
+
 
 ---
 
