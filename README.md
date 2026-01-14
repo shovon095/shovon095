@@ -1,45 +1,45 @@
 # Shouvon Sarker  
 **PhD Candidate · Electrical Engineering · Prairie View A&M University**
 
-<div align="center">
+<p align="center">
+Large Language Models · Explainable AI · Trustworthy Machine Learning
+</p>
 
-**Large Language Models · Explainable AI · Trustworthy Machine Learning**
-
-[Email](mailto:shouvonsarker@gmail.com) ·
-[Website](https://shovon095.github.io) ·
-[LinkedIn](https://www.linkedin.com/in/shouvon-sarker) ·
-[Google Scholar](https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en)
-
-</div>
+<p align="center">
+<a href="mailto:shouvonsarker@gmail.com">Email</a> ·
+<a href="https://shovon095.github.io">Website</a> ·
+<a href="https://www.linkedin.com/in/shouvon-sarker">LinkedIn</a> ·
+<a href="https://scholar.google.com/citations?user=WGTZTE8AAAAJ&hl=en">Google Scholar</a>
+</p>
 
 ---
 
 ## About
-I am a **PhD candidate in Electrical Engineering at Prairie View A&M University** working on the development of **transparent, trustworthy, and reliable artificial intelligence systems** for mission-critical applications.  
+I am a **PhD candidate in Electrical Engineering at Prairie View A&M University**, focused on building **transparent, trustworthy, and reliable AI systems** for mission-critical domains.
 
-My research centers on **large language models (LLMs)** with an emphasis on **explainability, correctness, and structured reasoning**, particularly for **scientific data systems** and **clinical natural language processing**.
+My research emphasizes **large language models (LLMs)** with **explainability, correctness, and structured reasoning**, particularly for **scientific databases** and **clinical NLP**.
 
 **GPA:** 4.0 / 4.0
 
 ---
 
 ## Research Interests
-- Explainable AI and model interpretability  
-- Large language models and structured generation  
-- Text-to-SQL systems for scientific databases  
-- Probabilistic error modeling and policy optimization  
+- Explainable and interpretable AI  
+- Large language models & structured generation  
+- Text-to-SQL for scientific data systems  
+- Probabilistic error modeling & policy optimization  
 - Clinical natural language processing  
 
 ---
 
 ## Selected Projects
-- **NASA DEAP-SQL** – Self-discovery Text-to-SQL pipeline for Earth Science databases  
+- **NASA DEAP-SQL** — Self-discovery Text-to-SQL for Earth science  
   https://github.com/shovon095/text2sql-quality-refiner
 
-- **Attention-Enhanced Text-to-SQL** – Non-parametric validation without external knowledge  
+- **Attention-Enhanced Text-to-SQL** — Non-parametric validation  
   https://github.com/shovon095/nl2sql-attention-validator
 
-- **NIST GenAI Challenge** – Generator–detector framework (Top 10%)  
+- **NIST GenAI Challenge** — Generator–detector framework (Top 10%)  
   https://github.com/shovon095/nist-genai24-pipeline
 
 ---
@@ -63,17 +63,13 @@ My research centers on **large language models (LLMs)** with an emphasis on **ex
 
 ---
 
-## GitHub Activity
-<div align="center">
+<p align="center">
+<img
+  src="https://github-readme-stats.vercel.app/api?username=shovon095&show_icons=true&hide_border=true&theme=default"
+  height="160"
+/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=shovon095&show_icons=true&include_all_commits=true" height="160"/>
-
-</div>
-
----
-
-<div align="center">
-
-*Advancing transparent and trustworthy AI through principled modeling and evaluation.*
-
-</div>
+<p align="center">
+<em>Advancing transparent and trustworthy AI through principled modeling and evaluation.</em>
+</p>
