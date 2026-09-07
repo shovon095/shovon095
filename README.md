@@ -46,10 +46,10 @@ My research emphasizes **large language models (LLMs)** with **explainability, c
 
 ## Publications (Selected)
 - *From Tokens to Transitions: A Structured Jensen–Shannon Knowledge Distillation Method for NER*  
-  **Submitted to IEEE TKDE**, 2025
+  **Under revision, IEEE TKDE**, 2025
 
-- *Learning SQL Correctness: Bayesian Error Localization and Policy Optimization*  
-  **In preparation**, 2025
+- *Inference-time Bayesian Error Diagnosis and Repair for Text-to-SQL*  
+  **Submitted to TACL**, 2026
 
 - *Integrating Non-Parametric Attention to Enhance LLM-Based Text-to-SQL*  
   **IEEE ICDM**, 2025
